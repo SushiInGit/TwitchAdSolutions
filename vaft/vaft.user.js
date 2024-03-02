@@ -623,7 +623,7 @@
                 stitched: true,
                 roll_type: rollType,
                 player_mute: true,
-                player_volume: 0.0,
+                player_volume: 25.0,
                 visible: false,
             };
             for (let podPosition = 0; podPosition < podLength; podPosition++) {
